@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AlphaBetaPruning">
+    <Position X="15" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAEgAgAAAAAAAgQAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>AlphaBetaPruning.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IterativeDeepening">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAgAAAAAAAAAAAAAAAAAAAAgAAAAgAAA=</HashCode>
+      <FileName>IterativeDeepening.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAECAACCAAAoCAACgIggAAAAAAAAAIQEgIQCAAAAI=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCMwAAAAEAAAAEAABAAABAAAAAiAABAAgAAAEAAgAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAIQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Move">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAIAAAgAAAAAEAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Move.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HumanPlayer">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAIAAAAAQ=</HashCode>
+      <FileName>HumanPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerPlayer">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAABAAAACAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>ComputerPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveValuePair">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAoAAAAgIAAAAAAAAAYAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoveValuePair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ePlayer">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAMAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommonData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
